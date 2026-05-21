@@ -1,4 +1,4 @@
-# DS-Algos-Playground
+# AccioAlgorithms
 Small, focused Python examples for learning core programming and algorithm concepts.
 Topics included
 - Basics: functions, parameter passing, recursion
